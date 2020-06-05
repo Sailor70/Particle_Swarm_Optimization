@@ -8,6 +8,6 @@ Particle swarm optimization is a computational method inspired by the natural mo
 
 ## Screenshots
 
-![alt tag](https://github.com/Sailor70/ParticleSwarmOptimization/blob/master/screenshots/ackley.jpg)
+![alt tag](https://github.com/Sailor70/Particle_Swarm_Optimization/blob/master/screenshots/ackley.jpg)
 
-![alt tag](https://github.com/Sailor70/PrincipalComponentAnalysis/blob/master/screenshots/psoPyCharm.jpg)
+![alt tag](https://github.com/Sailor70/Principal_Component_Analysis/blob/master/screenshots/psoPyCharm.jpg)
